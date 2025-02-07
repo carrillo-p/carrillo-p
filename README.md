@@ -1,10 +1,10 @@
-## Welcome to my github👋
+## Welcome to my GitHub👋
 
 ### About me
 
 I'm a Data Scientist & Researcher where Psychology meets AI 🧠💻
 
-"In data we trust... but we double-check our p-values just in case"
+> "In data we trust... but we double-check our p-values just in case"
 
 My career has evolved from research and methodology into data science and AI. My journey began with a deep interest in conducting the best psychological research possible—driven by a desire to better understand human behavioral patterns, and make a positive impact on the world, and in particular in the educational field. As I delved into research methodology,  I became increasingly interested in the different approaches to extracting insights from data.
 
