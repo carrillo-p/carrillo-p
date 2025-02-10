@@ -55,7 +55,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 
 | Technology | Projects |
 | :------- | :------- |
-| ![LLM](https://img.shields.io/badge/-LLM-ff69b4) | [**lItA**](https://github.com/carrillo-p/lItA) – OLlama implementation for social media content generation |
+| ![LLM](https://img.shields.io/badge/-LLM-ff69b4) | [**lItA**](https://github.com/carrillo-p/lItA) – Ollama implementation for social media content generation |
 | ![NLP](https://img.shields.io/badge/-NLP-orange) | [**Akroma**](https://github.com/carrillo-p/Akrom) - Hateful comments detection |
 | ![ML](https://img.shields.io/badge/-ML-blue) | [**Titianic Competition**](https://github.com/carrillo-p/Titanic_kaggle) - ML models for the Titanic Spaceship competition for Kaggle |
 | ![Computer vision](https://img.shields.io/badge/-Computer_Vision-red) | [**Thassinator**](https://github.com/carrillo-p/Thassinator) - Face detection app for login functionalities |
