@@ -73,6 +73,9 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrillo-p&theme=calm_pink&layout=compact&langs_count=6"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carrillo-p)](https://git.io/streak-stats)
+
+
 <!--
 **carrillo-p/carrillo-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
