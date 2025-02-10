@@ -85,6 +85,10 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carrillo-p/carrillo-p/main/assets/snake-light.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+---
+![Snake animation](https://github.com/{username}/{username}/blob/output/github-snake-dark.svg)
+
 <!--
 **carrillo-p/carrillo-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
