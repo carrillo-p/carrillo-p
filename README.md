@@ -54,7 +54,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 | ![NLP](https://img.shields.io/badge/-NLP-orange) | [**Akroma**](https://github.com/carrillo-p/Akrom) - Hateful comments detection |
 | ![ML](https://img.shields.io/badge/-ML-blue) | [**Titianic Competition**](https://github.com/carrillo-p/Titanic_kaggle) - ML models for the Titanic Spaceship competition for Kaggle|
 | ![Computer vision](https://img.shields.io/badge/-Computer_Vision-red) | [**Thassinator**](https://github.com/carrillo-p/Thassinator) - Face detection |
-| ![Simulation](https://img.shields.io/badge/-Simlation-yellow) | [**Connect 4**](https://github.com/carrillo-p/connect4) - Alfa-beta pruning connect 4 solver |
+| ![Simulation](https://img.shields.io/badge/-Simulation-yellow) | [**Connect 4**](https://github.com/carrillo-p/connect4) - Alfa-beta pruning connect 4 solver |
 
 #### Data Science & Analytics
 ![Static Badge](https://img.shields.io/badge/R-%2311BAEE?style=flat&logo=R)
