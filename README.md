@@ -70,9 +70,9 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 ![Static Badge](https://img.shields.io/badge/Git-%2332D2F0?style=flat&logo=Git)
 
 #### ML & AI
-![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Static Badge](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PyTorch-black?logo=pytorch)
+![Static Badge](https://img.shields.io/badge/TensorFlow-#0090FF&logo=TensorFlow)
+![Static Badge](https://img.shields.io/badge/scikit--learn-#1E82F7&logo=scikit-learn)
 ![Static Badge](https://img.shields.io/badge/Keras-%23D00000?style=flat&logo=Keras)
 ![Static Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
 
