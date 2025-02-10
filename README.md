@@ -75,7 +75,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 
 ---
 <p align="center">
-  <img src="https://github.com/carrillo-p/carrillo-p/blob/output/dist/github-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://github.com/carrillo-p/carrillo-p/blob/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
