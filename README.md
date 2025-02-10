@@ -70,7 +70,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 ![Static Badge](https://img.shields.io/badge/Git-%2332D2F0?style=flat&logo=Git)
 
 #### ML & AI
-![Static Badge](https://img.shields.io/badge/PyTorch-black?logo=pytorch)
+![Static Badge](https://img.shields.io/badge/PyTorch-%232CCEEE?logo=pytorch)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-%230090FF?logo=TensorFlow)
 ![Static Badge](https://img.shields.io/badge/scikit--learn-%231E82F7?logo=scikit-learn)
 ![Static Badge](https://img.shields.io/badge/Keras-%23D00000?style=flat&logo=Keras)
