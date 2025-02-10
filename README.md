@@ -87,7 +87,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 </picture>
 
 ---
-![Snake animation](https://github.com/{carrillo-p}/{carrillo-p}/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/carrillo-p/carrillo-p/blob/output/dist/github-snake-dark.svg)
 
 <!--
 **carrillo-p/carrillo-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
