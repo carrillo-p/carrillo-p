@@ -80,13 +80,6 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 </div>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carrillo-p/carrillo-p/main/assets/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carrillo-p/carrillo-p/main/assets/snake-light.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
----
 ![Snake animation](https://github.com/carrillo-p/carrillo-p/blob/output/github-snake-dark.svg)
 
 <!--
