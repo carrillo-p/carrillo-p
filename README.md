@@ -1,5 +1,10 @@
 ## Welcome to my GitHub👋
 
+<p align="center">
+  <img src="https://github.com/carrillo-p/carrillo-p/blob/output/github-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+
 ### About me
 
 I'm a Data Scientist & Researcher where Psychology meets AI 🧠💻
@@ -83,11 +88,6 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carrillo-p&theme=calm_pink&show_icons=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrillo-p&theme=calm_pink&layout=compact&langs_count=6"/>
 </div>
-
----
-<p align="center">
-  <img src="https://github.com/carrillo-p/carrillo-p/blob/output/github-snake-dark.svg" alt="Snake animation"/>
-</p>
 
 ---
 <div align="center">
