@@ -74,13 +74,12 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 </div>
 
 ---
-
-<div style="text-align: center;">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Jokes Card">
-</div>
+![Snake animation](https://github.com/carrillo-p/carrillo-p/blob/output/github-snake-dark.svg)
 
 ---
-![Snake animation](https://github.com/carrillo-p/carrillo-p/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Jokes Card"/>
+</div>
 
 <!--
 **carrillo-p/carrillo-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
