@@ -55,14 +55,15 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 ![Static Badge](https://img.shields.io/badge/Git-%2332D2F0?style=flat&logo=Git)
 
 #### ML & AI
-![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=PyTorch)
-![Static Badge](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=TensorFlow)
-![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat&logo=scikit-learn)
+![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Keras-%23D00000?style=flat&logo=Keras)
+![Static Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
 
 #### LLM & NLP
-![Static Badge](https://img.shields.io/badge/Ollama-%23FF5A5F?style=flat&logo=llama)
-![Static Badge](https://img.shields.io/badge/Hugging%20Face-%23FFD21E?style=flat&logo=huggingface)
+![Static Badge](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 ![Static Badge](https://img.shields.io/badge/spaCy-%2309A3D5?style=flat&logo=spacy)
 ![Static Badge](https://img.shields.io/badge/NLTK-%23154F5B?style=flat&logo=python)
 
