@@ -79,6 +79,12 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Jokes Card">
 </div>
 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carrillo-p/carrillo-p/main/assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carrillo-p/carrillo-p/main/assets/snake-light.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!--
 **carrillo-p/carrillo-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
