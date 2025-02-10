@@ -79,8 +79,8 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 #### LLM & NLP
 ![Static Badge](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
-![Static Badge](https://img.shields.io/badge/spaCy-%2309A3D5?style=flat&logo=spacy)
-![Static Badge](https://img.shields.io/badge/NLTK-%23154F5B?style=flat&logo=python)
+![Static Badge](https://img.shields.io/badge/spaCy-%23D53B09?style=flat&logo=spacy)
+![Static Badge](https://img.shields.io/badge/NLTK-%23AB6C37?style=flat&logo=python)
 
 
 ---
