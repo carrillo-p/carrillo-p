@@ -50,8 +50,6 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 
 ### Contacto
 
-<img align="right" src="https://i.gifer.com/DrW6.gif" width="100" height="auto">
-
   📧 Correo: alberto.carrillo@protonmail.com
   
   💼 [LinkedIn](https://www.linkedin.com/in/alberto-carrillop/)
@@ -67,6 +65,9 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 | ![Simulation](https://img.shields.io/badge/-Simulation-yellow) | [**Connect 4**](https://github.com/carrillo-p/connect4) - Alfa-beta pruning connect 4 solver |
 
 #### Data Science & Analytics
+
+<img align="right" src="images/monkey.gif" width="100" height="auto">
+
 ![Static Badge](https://img.shields.io/badge/R-%2311BAEE?style=flat&logo=R)
 ![Static Badge](https://img.shields.io/badge/Python-%23AB6C37?style=flat&logo=Python)
 ![Static Badge](https://img.shields.io/badge/SQL-%23F3D70C?style=flat&logo=PostgreSQL)
