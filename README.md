@@ -7,7 +7,7 @@
 
 ### About me
 
-<img align="right" src="https://i.imgur.com/cT7iEx6.gif" width="200" height="auto">
+<img align="right" src="https://i.imgur.com/cT7iEx6.gif" width="100" height="auto">
 
 I'm a Data Scientist & Researcher where Psychology meets AI 🧠💻
 
