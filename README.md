@@ -99,6 +99,8 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Jokes Card"/>
 </div>
 
+<img align="center" src="https://i.imgur.com/mnwyZRT.gif" width="100" height="auto">
+
 <!--
 **carrillo-p/carrillo-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
