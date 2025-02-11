@@ -33,13 +33,13 @@ I apply my background in psychology and research to:
   - Data visualization and storytelling
 
 ### 💻 Projects & Interests:
+<img align="right" src="https://i.imgur.com/rYHylOP.gif" width="100" height="auto">
   - Exploring the intersection of psychology and AI
   - Applying machine learning to behavioral data
   - Experimenting with LLMs for research and automation
   - Developing tools that enhance decision-making through data
     
 ### 📚 Formation:
-
    - Master's Degree in Educational Psychology
    - Master's Degree in Methodology of Behavioral and Health Sciences
    - Generative AI Bootcamp
