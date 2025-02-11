@@ -33,7 +33,7 @@ I apply my background in psychology and research to:
   - Data visualization and storytelling
 
 ### 💻 Projects & Interests:
-<img align="left" src="https://i.imgur.com/rYHylOP.gif" width="100" height="auto">
+<img align="right" src="https://i.imgur.com/rYHylOP.gif" width="100" height="auto">
 
   - Exploring the intersection of psychology and AI
   - Applying machine learning to behavioral data
@@ -49,6 +49,8 @@ I apply my background in psychology and research to:
 When I'm not working with data and AI, I enjoy unwinding with video games, strategy board games, and technology. I'm always curious about the psychology behind game design and user experience, whether it's analyzing player behavior or appreciating well-crafted narratives. I also enjoy reading, coffee, and discovering new music.
 
 ### Contacto
+
+<img align="right" src="https://i.imgur.com/mnwyZRT.gif" width="100" height="auto">
 
   📧 Correo: alberto.carrillo@protonmail.com
   
