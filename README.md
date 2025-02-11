@@ -7,11 +7,11 @@
 
 ### About me
 
-<img align="right" src="https://i.imgur.com/cT7iEx6.gif" width="100" height="auto">
-
 I'm a Data Scientist & Researcher where Psychology meets AI 🧠💻
 
 > "In data we trust... but we double-check our p-values just in case"
+
+<img align="right" src="https://i.imgur.com/cT7iEx6.gif" width="100" height="auto">
 
 My career has evolved from research and methodology into data science and AI. My journey began with a deep interest in conducting the best psychological research possible—driven by a desire to better understand human behavioral patterns, and make a positive impact on the world, and in particular in the educational field. As I delved into research methodology,  I became increasingly interested in the different approaches to extracting insights from data.
 
@@ -99,7 +99,9 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Jokes Card"/>
 </div>
 
-<img align="center" src="https://i.imgur.com/mnwyZRT.gif" width="100" height="auto">
+<p align="center">
+  <img src="https://i.imgur.com/mnwyZRT.gif" width="200" height="auto">
+</p>
 
 <!--
 **carrillo-p/carrillo-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
