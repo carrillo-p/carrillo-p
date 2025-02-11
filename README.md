@@ -18,7 +18,7 @@ My career has evolved from research and methodology into data science and AI. My
 This curiosity led me from traditional statistical methods to programming, automation, and eventually, machine learning and AI. Over time, my focus expanded beyond psychology to data science, where I now integrate research methods with advanced analytical techniques to solve complex problems and generate meaningful insights.
 
 ### 🔍 What i do
-
+<img align="right" src="https://i.imgur.com/zaJwFnH.gif" width="100" height="auto">
 I apply my background in psychology and research to:
 
   - Research methodology and data analysis
