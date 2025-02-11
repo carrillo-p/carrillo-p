@@ -100,7 +100,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/mnwyZRT.gif" width="200" height="auto">
+  <img src="https://i.imgur.com/mnwyZRT.gif" width="150" height="auto">
 </p>
 
 <!--
