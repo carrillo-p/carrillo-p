@@ -50,7 +50,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 
 ### Contacto
 
-<img align="right" src="https://i.imgur.com/mnwyZRT.gif" width="100" height="auto">
+<img align="right" src="https://i.gifer.com/DrW6.gif" width="100" height="auto">
 
   📧 Correo: alberto.carrillo@protonmail.com
   
