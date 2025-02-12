@@ -50,7 +50,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 
 ### Contacto
 
-  📧 Correo: alberto.carrillo@protonmail.com
+  ![Static Badge](https://img.shields.io/badge/E-mail-%23DCFF4A?style=flat&logo=protonmail?link=alberto.carrillo%40protonmail.com)
   
   💼 [LinkedIn](https://www.linkedin.com/in/alberto-carrillop/)
 
