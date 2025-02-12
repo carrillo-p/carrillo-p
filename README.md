@@ -51,8 +51,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 ### Contacto
 
   [![Static Badge](https://img.shields.io/badge/mail-%23DCFF4A?style=flat&logo=protonmail)](mailto:alberto.carrillo@protonmail.com)
-  
-  [![Static Badge](https://img.shields.io/badge/LinkedIn-%23A8400E?style=flat&logo=linkedinl)](https://www.linkedin.com/in/alberto-carrillop/)
+  [![Static Badge](https://img.shields.io/badge/LinkedIn-%23A8400E?style=flat&logo=linkedin)](https://www.linkedin.com/in/alberto-carrillop/)
   
 ### My Projects:
 
