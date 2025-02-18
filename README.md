@@ -100,7 +100,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 </div>
 
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d30a53a-2129-4ff8-ab17-4e0692743189/d1vc4es-5af54715-3a57-45ae-9c40-bbc8c500d698.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkMzBhNTNhLTIxMjktNGZmOC1hYjE3LTRlMDY5Mjc0MzE4OVwvZDF2YzRlcy01YWY1NDcxNS0zYTU3LTQ1YWUtOWM0MC1iYmM4YzUwMGQ2OTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LVdo1e7g99jSN-uuhKMgkQpPEieB7QW1IlRb4_73i74" width="200" height="auto">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d30a53a-2129-4ff8-ab17-4e0692743189/d1vc4es-5af54715-3a57-45ae-9c40-bbc8c500d698.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkMzBhNTNhLTIxMjktNGZmOC1hYjE3LTRlMDY5Mjc0MzE4OVwvZDF2YzRlcy01YWY1NDcxNS0zYTU3LTQ1YWUtOWM0MC1iYmM4YzUwMGQ2OTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LVdo1e7g99jSN-uuhKMgkQpPEieB7QW1IlRb4_73i74" width="250" height="auto">
 </p>
 
 <!--
