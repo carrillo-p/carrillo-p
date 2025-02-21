@@ -98,6 +98,7 @@ When I'm not working with data and AI, I enjoy unwinding with video games, strat
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Jokes Card"/>
 </div>
+
 ---
 
 <p align="center">
